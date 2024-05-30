@@ -1,0 +1,7 @@
+/home/makseli/yazilim/dEV/ME/price-microservice-.net-core-with-cassandra-on-docker/ProductService/obj/Debug/net8.0/ProductService.csproj.AssemblyReference.cache
+/home/makseli/yazilim/dEV/ME/price-microservice-.net-core-with-cassandra-on-docker/ProductService/obj/Debug/net8.0/ProductService.GeneratedMSBuildEditorConfig.editorconfig
+/home/makseli/yazilim/dEV/ME/price-microservice-.net-core-with-cassandra-on-docker/ProductService/obj/Debug/net8.0/ProductService.AssemblyInfoInputs.cache
+/home/makseli/yazilim/dEV/ME/price-microservice-.net-core-with-cassandra-on-docker/ProductService/obj/Debug/net8.0/ProductService.AssemblyInfo.cs
+/home/makseli/yazilim/dEV/ME/price-microservice-.net-core-with-cassandra-on-docker/ProductService/obj/Debug/net8.0/ProductService.csproj.CoreCompileInputs.cache
+/home/makseli/yazilim/dEV/ME/price-microservice-.net-core-with-cassandra-on-docker/ProductService/obj/Debug/net8.0/ProductService.MvcApplicationPartsAssemblyInfo.cache
+/home/makseli/yazilim/dEV/ME/price-microservice-.net-core-with-cassandra-on-docker/ProductService/obj/Debug/net8.0/ProductService.sourcelink.json

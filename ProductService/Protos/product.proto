@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option csharp_namespace = "ProductService";
+
+service Product {
+    rpc AddProduct (ProductRequest) returns (ProductReply);
+}
+
+message ProductRequest {
+    string name = 1;
+    string website_id = 2;
+    double price_cash = 3;
+    double price_credit_card = 4;
+}
+
+message ProductReply {
+    string message = 1;
+}
